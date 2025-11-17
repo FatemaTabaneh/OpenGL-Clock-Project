@@ -1,36 +1,17 @@
-# Visual Studio
-.vs/
-*.vcxproj.user
-*.VC.db
-*.VC.opendb
-
-# Build output
+# Visual Studio build folders
 Debug/
-Release/
 x64/
-GLProject/Debug/
-GLProject/x64/
+.vs/
 
-# Intermediate build files
+# Intermediate / build files
 *.obj
 *.pdb
 *.tlog
-*.log
 *.idb
-*.lastbuildstate
-*.cache
-*.ipch
-
-# Temp
-*.tmp
 *.log
 *.pch
+*.ilk
 
-GLProject/
-OpenGL.SharedModule/
-Debug/
-x64/
-*.obj
-*.pdb
-*.tlog
-*.exe
+# User / cache
+*.VC.db
+*.VC.VC.opendb
