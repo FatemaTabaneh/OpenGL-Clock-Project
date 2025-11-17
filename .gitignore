@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# Build output
+Debug/
+Release/
+x64/
+GLProject/Debug/
+GLProject/x64/
+
+# Intermediate build files
+*.obj
+*.pdb
+*.tlog
+*.log
+*.idb
+*.lastbuildstate
+*.cache
+*.ipch
+
+# Temp
+*.tmp
+*.log
+*.pch
+
+GLProject/
+OpenGL.SharedModule/
+Debug/
+x64/
+*.obj
+*.pdb
+*.tlog
+*.exe
